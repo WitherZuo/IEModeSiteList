@@ -1,0 +1,27 @@
+<site-list version="1">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>05/23/2021 01:23:29</date-created>
+  </created-by>
+  <site url="bbs.pcbeta.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ntcebm2.neea.edu.cn">
+    <compat-mode>IE10</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ntcebm4.neea.edu.cn">
+    <compat-mode>IE10</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="jxzygl.zju.edu.cn">
+    <compat-mode>IE8</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="xwfw.zju.edu.cn">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
