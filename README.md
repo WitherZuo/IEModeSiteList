@@ -50,9 +50,9 @@
 
 - `admx` 根目录下的 `msedge.admx`、`msedgeupdate.admx`和`msedgewebview2.admx` 这三个文件，直接复制到`%SYSTEMDRIVE%\Windows\PolicyDefinitions` 根目录下；  
 
-- `admx\zh-CN` 文件夹中的 `msedge.admx`、`msedgeupdate.admx`和`msedgewebview2.admx` 这三个文件，复制到 `%SYSTEMDRIVE%\Windows\PolicyDefinitions\zh-CN`目录下；
+- `admx\zh-CN` 文件夹中的 `msedge.adml`、`msedgeupdate.adml`和`msedgewebview2.adml` 这三个文件，复制到 `%SYSTEMDRIVE%\Windows\PolicyDefinitions\zh-CN`目录下；
 
-- `admx\en-US` 文件夹中的 `msedge.admx`、`msedgeupdate.admx`和`msedgewebview2.admx` 这三个文件，复制到 `%SYSTEMDRIVE%\Windows\PolicyDefinitions\en-US`目录下；  
+- `admx\en-US` 文件夹中的 `msedge.adml`、`msedgeupdate.adml`和`msedgewebview2.adml` 这三个文件，复制到 `%SYSTEMDRIVE%\Windows\PolicyDefinitions\en-US`目录下；  
 
 复制完成后打开组策略管理器，就可以找到与 Microsoft Edge 有关的组策略模板了。  
 
