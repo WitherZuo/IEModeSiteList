@@ -1,9 +1,4 @@
-<site-list version="6">
-  <created-by>
-    <tool>EMIESiteListManager</tool>
-    <version>12.0.0.0</version>
-    <date-created>05/28/2021 23:22:30</date-created>
-  </created-by>
+<site-list version="7">
   <site url="bbs.pcbeta.com">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
@@ -27,5 +22,9 @@
   <site url="ccaa3.ccaa.org.cn/">
     <compat-mode>IE11</compat-mode>
     <open-in>IE11</open-in>
-  </site> 
+  </site>
+  <site url="cn.bing.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
 </site-list>
