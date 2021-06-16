@@ -66,7 +66,7 @@
 
 - **允许访问 Enterprise Mode Site List Manager 工具**：将状态配置为「已启用」；
 - **配置 Internet Explorer 集成**：将状态配置为「已启用」，选项配置为「Internet Explorer 模式」；
-- **配置企业模式站点列表**：将状态配置为「已启用」，选项配置为「https://gitee.com/witherzuo/iemode-site-list/raw/master/IEModeWebsiteList.xml」；
+- **配置企业模式站点列表**：将状态配置为「已启用」，选项配置为「https://cdn.jsdelivr.net/gh/WitherZuo/IEModeSiteList@master/IEModeWebsiteList.xml」；
 - **允许 Internet Explorer 模式测试**：将状态配置为「已禁用」或「未配置」。
 
 修改完成后，**重新启动 Microsoft Edge**。在浏览器中访问 `edge://compat` ，转到「企业模式站点列表」，在右侧界面中单击「强制更新」按钮，就会从指定地址获取新的站点列表。   
