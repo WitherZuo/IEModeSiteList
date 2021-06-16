@@ -1,8 +1,4 @@
-<site-list version="7">
-  <site url="bbs.pcbeta.com">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
+<site-list version="8">
   <site url="ntcebm2.neea.edu.cn">
     <compat-mode>IE10</compat-mode>
     <open-in>IE11</open-in>
@@ -21,6 +17,10 @@
   </site>
   <site url="ccaa3.ccaa.org.cn/">
     <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="pcbeta.com">
+    <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
 </site-list>
