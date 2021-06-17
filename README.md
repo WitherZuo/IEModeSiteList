@@ -1,6 +1,4 @@
-# IEModeSiteList - IE 模式网站清单  
-
-[toc]  
+# IEModeSiteList - IE 模式网站清单   
 
 ## 1、介绍  
 
