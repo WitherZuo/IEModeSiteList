@@ -1,4 +1,4 @@
-<site-list version="8">
+<site-list version="9">
   <site url="ntcebm2.neea.edu.cn">
     <compat-mode>IE10</compat-mode>
     <open-in>IE11</open-in>
@@ -20,6 +20,10 @@
     <open-in>IE11</open-in>
   </site>
   <site url="pcbeta.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="example.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
