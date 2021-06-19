@@ -27,4 +27,8 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <site url="firefox.net.cn">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
 </site-list>
