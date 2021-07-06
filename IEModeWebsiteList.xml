@@ -19,11 +19,7 @@
     <compat-mode>IE11</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="pcbeta.com">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="demo.example.org">
+  <site url="example.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
