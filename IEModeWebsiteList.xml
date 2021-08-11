@@ -1,18 +1,6 @@
-<site-list version="9">
-  <site url="ntcebm2.neea.edu.cn">
-    <compat-mode>IE10</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="ntcebm4.neea.edu.cn">
-    <compat-mode>IE10</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="jxzygl.zju.edu.cn">
+<site-list version="11">
+  <site url="neea.edu.cn">
     <compat-mode>IE8</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
-  <site url="xwfw.zju.edu.cn">
-    <compat-mode>IE11</compat-mode>
     <open-in>IE11</open-in>
   </site>
   <site url="ccaa3.ccaa.org.cn/">
