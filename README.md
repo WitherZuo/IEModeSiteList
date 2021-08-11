@@ -4,9 +4,9 @@
 
 **本项目维护了一份 IE 模式站点适配清单文件（适用于用于 Microsoft Edge 的 Internet Explorer 模式）**。  
 
-**🔴 这样做的原因是**：在国内，目前仍然有相当数量的网站仍然需要使用 Internet Explorer 才能正常访问，这其中政企相关的网站占了绝大多数。微软推出的基于 Chromium 的 Microsoft Edge 浏览器加入了「Internet Explorer 模式」，可以将这些网站自动通过 Internet Explorer 在 Microsoft Edge 中打开。  
+**🔴 这样做的原因是**：在国内，目前仍然有相当数量的网站仍然需要使用 Internet Explorer 才能正常访问，这其中政企相关的网站占了绝大多数。微软推出的基于 Chromium 的 Microsoft Edge 浏览器加入了「Internet Explorer 模式」，可以将这些网站自动通过 Internet Explorer 在 Microsoft Edge 中打开[^1]。  
 
-一个个将这些网站设置并切换到 Internet Explorer 模式打开是一个很繁琐且枯燥的工作，**创建一份清单文件可以一劳永逸，更加快捷方便地达到上述目的**。  
+一个个将这些网站设置并切换到 Internet Explorer 模式打开是一个很繁琐且枯燥的工作，**创建一份清单文件可以一劳永逸，更加快捷方便地达到上述目的**[^2]。  
 
 ---
 
@@ -18,7 +18,7 @@
 
 ### 第一步：获取策略模板 
 
-在浏览器中打开[该地址](https://www.microsoft.com/zh-cn/edge/business/download)，并按照顺序选择对应的「频道/版本」、「版本」和「平台」。一般而言，如无特殊需要，  
+在浏览器中打开[该地址](https://www.microsoft.com/zh-cn/edge/business/download)，并按照顺序选择对应的「频道/版本」、「版本」和「平台」。一般而言，如无特殊需要[^4]，  
 
 - **「频道/版本」**选择**「稳定 & 受支持的最新版」**；
 
@@ -86,19 +86,14 @@
 
 ## 3、贡献本项目  
 
-你也可以对本项目进行贡献，添加更多需要 Internet Explorer 模式才能正常访问的网站网址。可通过给本项目提交 Issue 的方式请求添加尚未在列表中的网站。  
+你也可以对本项目进行贡献，添加更多需要 Internet Explorer 模式才能正常访问的网站网址[^2]。可通过给本项目提交 Issue 的方式请求添加尚未在列表中的网站。  
 
 ---
 
 ## 4、参考链接
 
-[1] [微软：什么是 Internet Explorer （IE） 模式？]([什么是 Internet Explorer 模式？ | Microsoft Docs](https://docs.microsoft.com/zh-cn/deployedge/edge-ie-mode))  
-
-[2] [Add single sites to the Enterprise Mode site list using the Enterprise Mode Site List Manager (schema v.2)]([Add sites to the Enterprise Mode site list using the Enterprise Mode Site List Manager (schema v.2) (Internet Explorer 11 for IT Pros) - Internet Explorer | Microsoft Docs](https://docs.microsoft.com/en-us/internet-explorer/ie11-deploy-guide/add-single-sites-to-enterprise-mode-site-list-using-the-version-2-enterprise-mode-tool))  
-
-[3] [微软：IE 模式疑难解答和常见问题解答]([IE 模式疑难解答和常见问题解答 | Microsoft Docs](https://docs.microsoft.com/zh-cn/deployedge/edge-ie-mode-faq))  
-
-[4] [微软：在 Windows 上配置 Microsoft Edge 策略设置]([配置适用于 Windows 的 Microsoft Edge | Microsoft Docs](https://docs.microsoft.com/zh-cn/deployedge/configure-microsoft-edge))  
-
-[5] [微软：The future of Internet Explorer on Windows 10 is in Microsoft Edge]([The future of Internet Explorer on Windows 10 is in Microsoft Edge | Windows Experience Blog](https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/))  
-
+[^1]: 微软：什么是 Internet Explorer（IE）模式 [点击此处了解更多](https://docs.microsoft.com/zh-cn/deployedge/edge-ie-mode)  
+[^2]: Add single sites to the Enterprise Mode site list using the Enterprise Mode Site List Manager (schema v.2) [点击此处了解更多](https://docs.microsoft.com/en-us/internet-explorer/ie11-deploy-guide/add-single-sites-to-enterprise-mode-site-list-using-the-version-2-enterprise-mode-tool)   
+[^3]: 微软：IE 模式疑难解答和常见问题解答 [点击此处了解更多](https://docs.microsoft.com/zh-cn/deployedge/edge-ie-mode-faq)   
+[^4]: 微软：在 Windows 上配置 Microsoft Edge 策略设置 [点击此处了解更多](https://docs.microsoft.com/zh-cn/deployedge/configure-microsoft-edge)  
+[^5]: 微软：The future of Internet Explorer on Windows 10 is in Microsoft Edge [点击此处了解更多](https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/)  
