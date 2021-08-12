@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## IEModeSiteList - IE 模式网站清单  
 
-You can use the [editor on GitHub](https://github.com/WitherZuo/IEModeSiteList/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**本项目维护了一份 IE 模式站点适配清单文件（适用于用于 Microsoft Edge 的 Internet Explorer 模式）**。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+🔴 **这样做的原因是：**在国内，目前仍然有相当数量的网站仍然需要使用 Internet Explorer 才能正常访问，这其中政企相关的网站占了绝大多数。微软推出的基于 Chromium 的 Microsoft Edge 浏览器加入了「Internet Explorer 模式」，可以将这些网站自动通过 Internet Explorer 在 Microsoft Edge 中打开。  
 
-### Markdown
+一个个将这些网站设置并切换到 Internet Explorer 模式打开是一个很繁琐且枯燥的工作，创建一份清单文件可以一劳永逸，更加快捷方便地达到上述目的。  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="https://github.com/WitherZuo/IEModeSiteList/blob/master/README.md" class="btn">项目自述</a>  
 
-```markdown
-Syntax highlighted code block
+<a href="https://github.com/WitherZuo/IEModeSiteList/issues/new/choose" class="btn">提交站点</a>  
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WitherZuo/IEModeSiteList/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/" class="btn">外部链接</a>
