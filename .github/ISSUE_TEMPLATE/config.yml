@@ -1,1 +1,8 @@
 ​blank_issues_enabled​: ​false
+contact_links:
+  - name: 项目自述
+    url: https://github.com/WitherZuo/IEModeSiteList/blob/master/README.md
+    about: 请参阅该文件了解项目的目的和使用方式。
+  - name: 微软：Internet Explorer 的未来
+    url: https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/
+    about: 请点击该链接了解微软对 Internet Explorer 未来发展的看法和展望。

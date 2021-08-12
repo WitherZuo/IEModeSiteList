@@ -1,0 +1,47 @@
+name: 添加新站点 / ADD A NEW SITE
+description: 申请添加一个新的 IE 模式站点到网站列表清单中
+title: "添加新站点：[在此处填入网址，不支持通配符]"
+labels: [Request, New]
+assignees:
+  - WitherZuo
+body:
+  - type: markdown
+    attributes:
+      value: |
+        如果您对部分选项存在疑惑，可以[点击此处](https://docs.microsoft.com/zh-cn/internet-explorer/ie11-deploy-guide/)了解更多。
+  - type: dropdown
+    id: ie-open-methods
+    attributes:
+      label: 打开方式：
+      description: 请选择对应项目，最多仅能选择一项
+      options:
+        - IE 模式（建议）
+        - IE11 应用 
+        - Microsoft Edge
+        - 可配置
+        - 无
+    validations:
+      required: true
+  - type: dropdown
+    id: compatibility-modes
+    attributes:
+      label: 兼容模式 / 兼容性视图模式：
+      description: 请选择对应项目，最多仅能选择一项
+      options:
+        - 默认模式
+        - IE5 文档模式 
+        - IE7 文档模式 
+        - IE7 企业模式 
+        - IE8 文档模式
+        - IE8 企业模式
+        - IE9 文档模式 
+        - IE10 文档模式
+        - IE11 文档模式
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: 备注 / 其它需要注意的内容：
+      description: 除此之外还有什么需要特别留意的地方？（支持 Markdown 语法）
+      render: markdown
