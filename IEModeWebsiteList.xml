@@ -1,4 +1,4 @@
-<site-list version="13">
+<site-list version="14">
   <site url="example.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
@@ -40,6 +40,18 @@
     <open-in>IE11</open-in>
   </site>
   <site url="dzcg.whggzyjy.cn">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ggzyjyzx.shandong.gov.cn">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="pbank.95559.com.cn">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ebank.95559.com.cn">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
