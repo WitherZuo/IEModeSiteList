@@ -1,4 +1,4 @@
-<site-list version="11">
+<site-list version="12">
   <site url="example.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
@@ -16,7 +16,7 @@
     <open-in>IE11</open-in>
   </site>
     <site url="ggzyjy.weihai.cn">
-      <compat-mode>IE8</compat-mode>
+      <compat-mode>Default</compat-mode>
       <open-in>IE11</open-in>
     </site>
 </site-list>
