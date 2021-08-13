@@ -1,4 +1,4 @@
-<site-list version="12">
+<site-list version="13">
   <site url="example.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
@@ -15,8 +15,32 @@
     <compat-mode>IE8</compat-mode>
     <open-in>IE11</open-in>
   </site>
-    <site url="ggzyjy.weihai.cn">
-      <compat-mode>Default</compat-mode>
-      <open-in>IE11</open-in>
-    </site>
+  <site url="ggzyjy.weihai.cn">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="whcqjy.whggzyjy.cn">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="60.212.191.165">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="60.212.191.167">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="jyzt.lssggzy.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="ggzy.bidding.gov.cn">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="dzcg.whggzyjy.cn">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
 </site-list>
