@@ -1,20 +1,25 @@
-<site-list version="17">
+<site-list version="18">
+  <!-- 示例站点 -->
   <site url="example.org">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <!-- 中国教育考试网 -->
   <site url="neea.edu.cn">
     <compat-mode>IE8</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <!-- CCAA|认证人员注册与管理系统 -->
   <site url="ccaa3.ccaa.org.cn">
     <compat-mode>IE11</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <!-- 中国农业银行 -->
   <site url="abchina.com">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <!-- 威海公共资源交易网 -->
   <site url="ggzyjy.weihai.cn">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
@@ -23,42 +28,61 @@
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <!-- 威海市建设工程交易系统 -->
   <site url="60.212.191.165">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <!-- 威海市公共资源交易中心 -->
   <site url="60.212.191.167">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <!-- 丽水电子招投标交易平台 -->
   <site url="jyzt.lssggzy.com">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <!-- 宁波市公共资源网上交易系统 -->
   <site url="ggzy.bidding.gov.cn">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <!-- 威海市政府采购电子交易系统 -->
   <site url="dzcg.whggzyjy.cn">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <!-- 山东省公共资源交易中心|山东省政府采购中心 -->
   <site url="ggzyjyzx.shandong.gov.cn">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <!-- 交通银行 - 个人网银 -->
   <site url="95559.com.cn">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <!-- 中国工商银行 -->
   <site url="icbc.com.cn">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <!-- 招商银行 -->
   <site url="cmbchina.com">
     <compat-mode>Default</compat-mode>
     <open-in>IE11</open-in>
   </site>
+  <!-- 中信银行 -->
+  <site url="citicbank.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="bank.ecitic.com">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <!-- 中国专利电子申请网 -->
   <site url="cponline.cnipa.gov.cn">
     <compat-mode>IE10</compat-mode>
     <open-in>IE11</open-in>
