@@ -1,4 +1,8 @@
 <site-list version="11">
+  <site url="example.org">
+    <compat-mode>Default</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
   <site url="neea.edu.cn">
     <compat-mode>IE8</compat-mode>
     <open-in>IE11</open-in>
@@ -7,12 +11,12 @@
     <compat-mode>IE11</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="example.org">
-    <compat-mode>Default</compat-mode>
-    <open-in>IE11</open-in>
-  </site>
   <site url="perbank.abchina.com">
     <compat-mode>IE8</compat-mode>
     <open-in>IE11</open-in>
   </site>
+    <site url="ggzyjy.weihai.cn">
+      <compat-mode>IE8</compat-mode>
+      <open-in>IE11</open-in>
+    </site>
 </site-list>
