@@ -1,4 +1,4 @@
-<site-list version="21">
+<site-list version="22">
 	<!-- 示例站点 -->
 	<site url="example.org">
 		<compat-mode>Default</compat-mode>
@@ -83,11 +83,11 @@
 		<open-in>IE11</open-in></site>
 	<!-- 浙江省农村信用社联合社 -->
 	<site url="zj96596.com">
-		<compat-mode>Default</compat-mode>
+		<compat-mode>IE9</compat-mode>
 		<open-in>IE11</open-in></site>
 	<!-- 贵州省农业信用社 -->
 	<site url="gznxbank.com">
-		<compat-mode>IE8</compat-mode>
+		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
 	<!-- 中国民生银行 -->
 	<site url="cmbc.com.cn">
