@@ -1,4 +1,4 @@
-<site-list version="24">
+<site-list version="25">
 	<!-- 示例站点 -->
 	<site url="example.org">
 		<compat-mode>Default</compat-mode>
@@ -97,6 +97,9 @@
 	<site url="chinatax.gov.cn">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
+	<site url="12366.chinatax.gov.cn">
+		<compat-mode>Default</compat-mode>
+		<open-in>MSEdge</open-in></site>
 	<site url="etax.hubei.chinatax.gov.cn">
 		<compat-mode>Default</compat-mode>
 		<open-in>MSEdge</open-in></site>
