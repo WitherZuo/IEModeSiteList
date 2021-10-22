@@ -1,4 +1,4 @@
-<site-list version="25">
+<site-list version="26">
 	<!-- 示例站点 -->
 	<site url="example.org">
 		<compat-mode>Default</compat-mode>
@@ -36,6 +36,30 @@
 		<open-in>IE11</open-in></site>
 	<!-- 宁波市公共资源网上交易系统 -->
 	<site url="ggzy.bidding.gov.cn">
+		<compat-mode>Default</compat-mode>
+		<open-in>IE11</open-in></site>
+	<!-- 吉林市公共资源交易网 -->
+	<site url="ggzy.jlcity.gov.cn">
+		<compat-mode>Default</compat-mode>
+		<open-in>IE11</open-in></site>
+	<!-- 磐石市公共资源交易中心 -->
+	<site url="jlpsggzy.com">
+		<compat-mode>Default</compat-mode>
+		<open-in>IE11</open-in></site>
+	<!-- 桦甸市公共资源交易信息网 -->
+	<site url="175.16.214.205">
+		<compat-mode>Default</compat-mode>
+		<open-in>IE11</open-in></site>
+	<!-- 蛟河市公共资源 -->
+	<site url="218.27.162.122">
+		<compat-mode>Default</compat-mode>
+		<open-in>IE11</open-in></site>
+	<!-- 舒兰市公共资源 -->
+	<site url="111.26.62.10">
+		<compat-mode>Default</compat-mode>
+		<open-in>IE11</open-in></site>
+	<!-- 永吉县公共资源交易网 -->
+	<site url="yjggzyjy.jlyj.gov.cn">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
 	<!-- 威海市政府采购电子交易系统 -->
