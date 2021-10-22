@@ -1,4 +1,4 @@
-<site-list version="26">
+<site-list version="27">
 	<!-- 示例站点 -->
 	<site url="example.org">
 		<compat-mode>Default</compat-mode>
@@ -40,6 +40,10 @@
 		<open-in>IE11</open-in></site>
 	<!-- 吉林市公共资源交易网 -->
 	<site url="ggzy.jlcity.gov.cn">
+		<compat-mode>Default</compat-mode>
+		<open-in>IE11</open-in></site>
+	<!-- 吉林市公共资源网上开评标系统 -->
+	<site url="122.137.242.37">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
 	<!-- 磐石市公共资源交易中心 -->
