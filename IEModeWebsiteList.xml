@@ -68,6 +68,7 @@
 	<site url="citicbank.com" comment="中信银行">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
+	<site url="bank.ecitic.com" comment="中信银行">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
 	<site url="cponline.cnipa.gov.cn" comment="中国专利电子申请网">
