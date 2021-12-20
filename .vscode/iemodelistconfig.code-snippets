@@ -10,9 +10,9 @@
 		"scope": "xml",
 		"prefix": "site",
 		"body": [
-			"\t<site url=\"${1}\">",
-			"\t\t<compat-mode>${2|Default,IE5,IE7,IE7Enterprise,IE8,IE8Enterprise,IE9,IE10,IE11|}</compat-mode>",
-			"\t\t<open-in>${3|IE11,MSEdge|}</open-in></site>"
+			"\t<site url=\"${1}\" comment=\"${2}\">",
+			"\t\t<compat-mode>${3|Default,IE5,IE7,IE7Enterprise,IE8,IE8Enterprise,IE9,IE10,IE11|}</compat-mode>",
+			"\t\t<open-in>${4|IE11,MSEdge,Configurable,None|}</open-in></site>"
 		],
 		"description": "Add a new IE mode website to list."
 	}

@@ -1,134 +1,103 @@
-<site-list version="27">
-	<!-- 示例站点 -->
-	<site url="example.org">
+<site-list version="28">
+	<site url="example.org" comment="示例站点">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 中国教育考试网 -->
-	<site url="neea.edu.cn">
+	<site url="neea.edu.cn" comment="中国教育考试网">
 		<compat-mode>IE8</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- CCAA|认证人员注册与管理系统 -->
-	<site url="ccaa3.ccaa.org.cn">
+	<site url="ccaa3.ccaa.org.cn" comment="CCAA|认证人员注册与管理系统">
 		<compat-mode>IE11</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 中国农业银行 -->
-	<site url="abchina.com">
+	<site url="abchina.com" comment="中国农业银行">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 威海公共资源交易网 -->
- 	<site url="ggzyjy.weihai.cn">
+ 	<site url="ggzyjy.weihai.cn" comment="威海公共资源交易网">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<site url="whcqjy.whggzyjy.cn">
+	<site url="whcqjy.whggzyjy.cn" comment="威海公共资源交易网">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 威海市建设工程交易系统 -->
- 	<site url="60.212.191.165">
+ 	<site url="60.212.191.165" comment="威海市建设工程交易系统">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 威海市公共资源交易中心 -->
-	<site url="60.212.191.167">
+	<site url="60.212.191.167" comment="威海市公共资源交易中心">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 丽水电子招投标交易平台 -->
- 	<site url="jyzt.lssggzy.com">
+ 	<site url="jyzt.lssggzy.com" comment="丽水电子招投标交易平台">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 宁波市公共资源网上交易系统 -->
-	<site url="ggzy.bidding.gov.cn">
+	<site url="ggzy.bidding.gov.cn" comment="宁波市公共资源网上交易系统">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 吉林市公共资源交易网 -->
-	<site url="ggzy.jlcity.gov.cn">
+	<site url="ggzy.jlcity.gov.cn" comment="吉林市公共资源交易网">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 吉林市公共资源网上开评标系统 -->
-	<site url="122.137.242.37">
+	<site url="122.137.242.37" comment="吉林市公共资源网上开评标系统">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 磐石市公共资源交易中心 -->
-	<site url="jlpsggzy.com">
+	<site url="jlpsggzy.com" comment="磐石市公共资源交易中心">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 桦甸市公共资源交易信息网 -->
-	<site url="175.16.214.205">
+	<site url="175.16.214.205" comment="桦甸市公共资源交易信息网">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 蛟河市公共资源 -->
-	<site url="218.27.162.122">
+	<site url="218.27.162.122" comment="蛟河市公共资源">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 舒兰市公共资源 -->
-	<site url="111.26.62.10">
+	<site url="111.26.62.10" comment="舒兰市公共资源">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 永吉县公共资源交易网 -->
-	<site url="yjggzyjy.jlyj.gov.cn">
+	<site url="yjggzyjy.jlyj.gov.cn" comment="永吉县公共资源交易网">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 威海市政府采购电子交易系统 -->
-	<site url="dzcg.whggzyjy.cn">
+	<site url="dzcg.whggzyjy.cn" comment="威海市政府采购电子交易系统">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 山东省公共资源交易中心|山东省政府采购中心 -->
-	<site url="ggzyjyzx.shandong.gov.cn">
+	<site url="ggzyjyzx.shandong.gov.cn" comment="山东省公共资源交易中心|山东省政府采购中心">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 交通银行 - 个人网银 -->
-	<site url="95559.com.cn">
+	<site url="95559.com.cn" comment="交通银行 - 个人网银">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 中国工商银行 -->
-	<site url="icbc.com.cn">
+	<site url="icbc.com.cn" comment="中国工商银行">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 招商银行 -->
-	<site url="cmbchina.com">
+	<site url="cmbchina.com" comment="招商银行">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 中信银行 -->
-	<site url="citicbank.com">
+	<site url="citicbank.com" comment="中信银行">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<site url="bank.ecitic.com">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 中国专利电子申请网 -->
-	<site url="cponline.cnipa.gov.cn">
+	<site url="cponline.cnipa.gov.cn" comment="中国专利电子申请网">
 		<compat-mode>IE10</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 广西公共资源 -->
-	<site url="gxgtjy.com">
+	<site url="gxgtjy.com" comment="广西公共资源">
 		<compat-mode>IE8</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 贵州银行个人网上银行 -->
-	<site url="ebank.bgzchina.com">
+	<site url="ebank.bgzchina.com" comment="贵州银行个人网上银行">
 		<compat-mode>IE8</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 贵阳银行 -->
-	<site url="eweb.bankgy.com">
+	<site url="eweb.bankgy.com" comment="贵阳银行">
 		<compat-mode>IE8</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 浙江省农村信用社联合社 -->
-	<site url="zj96596.com">
+	<site url="zj96596.com" comment="浙江省农村信用社联合社">
 		<compat-mode>IE9</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 贵州省农业信用社 -->
-	<site url="gznxbank.com">
+	<site url="gznxbank.com" comment="贵州省农业信用社">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 中国民生银行 -->
-	<site url="cmbc.com.cn">
+	<site url="cmbc.com.cn" comment="中国民生银行">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<!-- 国家税务总局各分省市电子税务局 -->
-	<site url="chinatax.gov.cn">
+	<site url="chinatax.gov.cn" comment="国家税务总局各分省市电子税务局">
 		<compat-mode>Default</compat-mode>
 		<open-in>IE11</open-in></site>
-	<site url="12366.chinatax.gov.cn">
+	<site url="12366.chinatax.gov.cn" comment="国家税务总局各分省市电子税务局">
 		<compat-mode>Default</compat-mode>
 		<open-in>MSEdge</open-in></site>
-	<site url="etax.hubei.chinatax.gov.cn">
+	<site url="etax.hubei.chinatax.gov.cn" comment="国家税务总局各分省市电子税务局">
 		<compat-mode>Default</compat-mode>
 		<open-in>MSEdge</open-in></site>
 </site-list>
