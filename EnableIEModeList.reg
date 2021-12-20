@@ -1,7 +1,12 @@
 ﻿Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge]
-"InternetExplorerIntegrationLevel"=dword:00000001
+"InternetExplorerIntegrationTestingAllowed"=dword:00000001
 "EnterpriseModeSiteListManagerAllowed"=dword:00000001
-"InternetExplorerIntegrationTestingAllowed"=dword:00000000
+"InternetExplorerIntegrationLocalFileAllowed"=dword:00000001
 "InternetExplorerIntegrationSiteList"="https://raw.fastgit.org/WitherZuo/IEModeSiteList/master/IEModeWebsiteList.xml"
+"InternetExplorerIntegrationLevel"=dword:00000001
+"InternetExplorerIntegrationReloadInIEModeAllowed"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge\Recommended]
+"InternetExplorerIntegrationReloadInIEModeAllowed"=dword:00000001
